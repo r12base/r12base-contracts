@@ -1,0 +1,10 @@
+{
+  "name": "b12base",
+  "dependencies": {
+    "@openzeppelin/buidler-upgrades": "^1.2.1",
+    "@openzeppelin/contracts-ethereum-package": "^3.0.0",
+    "@openzeppelin/test-helpers": "^0.5.7",
+    "@openzeppelin/upgrades": "^2.8.0",
+    "@truffle/hdwallet-provider": "^1.2.0"
+  }
+}
